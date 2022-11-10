@@ -7,7 +7,7 @@
 | Category | Content |
 | --- | --- |
 | OS | Windows 10 Pro |
-| Language | <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black" /> Java 17.0.4 |
+| Language | Kotlin |
 | Editor | Eclipse IDE 2022-06 (4.24.0) |
 
 ## Periods of Development
