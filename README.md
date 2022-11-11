@@ -13,4 +13,3 @@
 2022-11
 
 ## Run Main
-![KakaoTalk_20221110_085702414](https://user-images.githubusercontent.com/115531871/200967514-2d9750fb-3ee6-4fe1-87c7-83506cba1b8e.gif)
