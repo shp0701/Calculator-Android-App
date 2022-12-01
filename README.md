@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Calculator&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SuHwa&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Calculator&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SH&descAlignY=60&descAlign=62)
 # Summary
 전자계산기
 
